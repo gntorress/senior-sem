@@ -43,10 +43,6 @@ emotionDetectionFace/ # Folder with .png face frames (named like happy1.png)
 emotionDetectionSpeech/ # Folder with .wav speech clips (named like angry3.wav)
 emotionDetectionAll/ # Folder with files to predict on (.png, .wav, .mp4)
 
-markdown
-Copy
-Edit
-
 ## ⚠️ Notes
 
 - This was my **first time working with deep learning, computer vision, and audio processing**.
